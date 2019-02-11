@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Metro 2033",
+            "inventory": 3
+        },
+        {
+            "id": 2,
+            "title": "Tatuażysta z Auschwitz",
+            "inventory": 2
+        },
+        {
+            "id": 3,
+            "title": "Dziewczyna z pociągu",
+            "inventory": 5
+        },
+        {
+            "id": 4,
+            "title": "Zanim się pojawiłeś",
+            "inventory": 4
+        },
+        {
+            "id": 5,
+            "title": "Metro 2034",
+            "inventory": 1
+        },
+        {
+            "id": 6,
+            "title": "Wyścig z czasem",
+            "inventory": 7
+        },
+        {
+            "id": 7,
+            "title": "Spójrz na mnie",
+            "inventory": 10
+        },
+        {
+            "id": 8,
+            "title": "Dla Ciebie wszystko",
+            "inventory": 6
+        }
+    ]
+}
